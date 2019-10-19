@@ -1,0 +1,1195 @@
+fileFormatVersion: 2
+guid: e2900e635f7e53c409c944aed90fe1bb
+timeCreated: 1532735293
+licenseType: Store
+SubstanceImporter:
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: Solid_Fractured
+    prototypeName: Solid_Fractured
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 11
+        scalar[1]: 11
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Random_Seed
+      value:
+        scalar[0]: 145
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Warp
+      value:
+        scalar[0]: 19.452614
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Random_Seed
+      value:
+        scalar[0]: 145
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Warp
+      value:
+        scalar[0]: 8.811533
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Balance
+      value:
+        scalar[0]: 0.9497583
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Contrast
+      value:
+        scalar[0]: 0.080996394
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapLava_Warp
+      value:
+        scalar[0]: 10
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 0
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Solid_Fractured_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1969343915
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Solid_Fractured_1
+    prototypeName: Solid_Fractured
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Random_Seed
+      value:
+        scalar[0]: 182
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Warp
+      value:
+        scalar[0]: 11.726628
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Random_Seed
+      value:
+        scalar[0]: 182
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Warp
+      value:
+        scalar[0]: 5.669577
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Balance
+      value:
+        scalar[0]: 0.4159822
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Contrast
+      value:
+        scalar[0]: 0.3251205
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapLava_Warp
+      value:
+        scalar[0]: 10
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 0
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Solid_Fractured_1_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1969343915
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Solid_Fractured_2
+    prototypeName: Solid_Fractured
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Random_Seed
+      value:
+        scalar[0]: 136
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Warp
+      value:
+        scalar[0]: 13.55835
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Random_Seed
+      value:
+        scalar[0]: 136
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Warp
+      value:
+        scalar[0]: 3.7721784
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Balance
+      value:
+        scalar[0]: 0.12637126
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Contrast
+      value:
+        scalar[0]: 0.08525038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapLava_Warp
+      value:
+        scalar[0]: 10
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 0
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Solid_Fractured_2_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1969343915
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Solid_Fractured_3
+    prototypeName: Solid_Fractured
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 10
+        scalar[1]: 10
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Warp
+      value:
+        scalar[0]: 14.230673
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Warp
+      value:
+        scalar[0]: 9.190014
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Balance
+      value:
+        scalar[0]: 0.50480837
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Contrast
+      value:
+        scalar[0]: 0.37464887
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapLava_Warp
+      value:
+        scalar[0]: 10
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 0
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Solid_Fractured_3_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1969343915
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Solid_Fractured_4
+    prototypeName: Solid_Fractured
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 10
+        scalar[1]: 10
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Warp
+      value:
+        scalar[0]: 14.230673
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Warp
+      value:
+        scalar[0]: 9.190014
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Balance
+      value:
+        scalar[0]: 0.50480837
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Contrast
+      value:
+        scalar[0]: 0.37464887
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapLava_Warp
+      value:
+        scalar[0]: 10
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 0
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Solid_Fractured_4_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1969343915
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Solid_Fractured_5
+    prototypeName: Solid_Fractured
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 10
+        scalar[1]: 10
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Warp
+      value:
+        scalar[0]: 14.230673
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Warp
+      value:
+        scalar[0]: 9.190014
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Balance
+      value:
+        scalar[0]: 0.50480837
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Contrast
+      value:
+        scalar[0]: 0.37464887
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapLava_Warp
+      value:
+        scalar[0]: 10
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 0
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Solid_Fractured_5_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1969343915
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Solid_Fractured_6
+    prototypeName: Solid_Fractured
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 10
+        scalar[1]: 10
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Warp
+      value:
+        scalar[0]: 14.230673
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Warp
+      value:
+        scalar[0]: 9.190014
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Balance
+      value:
+        scalar[0]: 0.50480837
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Contrast
+      value:
+        scalar[0]: 0.37464887
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapLava_Warp
+      value:
+        scalar[0]: 10
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 0
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Solid_Fractured_6_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1969343915
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Solid_Fractured_7
+    prototypeName: Solid_Fractured
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 10
+        scalar[1]: 10
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapHeight_Warp
+      value:
+        scalar[0]: 14.230673
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Random_Seed
+      value:
+        scalar[0]: 234
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Warp
+      value:
+        scalar[0]: 9.190014
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Balance
+      value:
+        scalar[0]: 0.50480837
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapBiome_Contrast
+      value:
+        scalar[0]: 0.37464887
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: MapLava_Warp
+      value:
+        scalar[0]: 10
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 0
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Solid_Fractured_7_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1969343915
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

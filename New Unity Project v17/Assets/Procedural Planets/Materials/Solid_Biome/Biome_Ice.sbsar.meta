@@ -1,0 +1,3627 @@
+fileFormatVersion: 2
+guid: 41a5f026dfc7b7b4db9f7b9d0580373f
+timeCreated: 1532735287
+licenseType: Store
+SubstanceImporter:
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: Biome_Ice
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 85
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 4.492214
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.10013437
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.7754066
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.50457937
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.46797845
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.58671415
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.58447415
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.3084151
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.105218574
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.001816392
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.15609396
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.80254674
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.988078
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.0013753296
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.41811413
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_1
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 249
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 8.254477
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.70785224
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.5582668
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.47192615
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.18112639
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.34559155
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.24210906
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.011689305
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.29494625
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.76139283
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.67853403
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.46633083
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.3382097
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.24054502
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.91940546
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_1_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_1_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_2
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_2_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_2_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_3
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_3_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_3_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_4
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_4_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_4_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_5
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_5_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_5_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_6
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_6_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_6_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_7
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_7_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_7_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_8
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_8_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_8_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_9
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_9_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_9_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_10
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_10_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_10_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_11
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_11_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_11_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_12
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_12_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_12_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_13
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_13_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_13_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_14
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_14_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_14_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  - serializedVersion: 16
+    name: Biome_Ice_15
+    prototypeName: Biome_Ice
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 9
+        scalar[1]: 9
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 122
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Warp
+      value:
+        scalar[0]: 2.524466
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Balance
+      value:
+        scalar[0]: 0.1762973
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Coverage_Contrast
+      value:
+        scalar[0]: 0.9672719
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Hue
+      value:
+        scalar[0]: 0.81317127
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Alienization
+      value:
+        scalar[0]: 0.1508714
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Saturation
+      value:
+        scalar[0]: 0.62090486
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Biome_Brightness
+      value:
+        scalar[0]: 0.43469542
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Craters
+      value:
+        scalar[0]: 0.7104465
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Craters
+      value:
+        scalar[0]: 0.5747059
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Surface
+      value:
+        scalar[0]: 0.05599038
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Small
+      value:
+        scalar[0]: 0.1637975
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Medium
+      value:
+        scalar[0]: 0.048118472
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Craters_Large
+      value:
+        scalar[0]: 0.90343165
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Crater_Erosion
+      value:
+        scalar[0]: 0.85098684
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Normal_Strength_Canyons
+      value:
+        scalar[0]: 0.043521777
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Diffuse_Strength_Canyons
+      value:
+        scalar[0]: 0.28252023
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _BumpScale: 1
+      - _Cutoff: 0.5
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _GlossMapScale: 1
+      - _Glossiness: 0.5
+      - _GlossyReflections: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SmoothnessTextureChannel: 0
+      - _SpecularHighlights: 1
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    textureParameters:
+    - name: Biome_Ice_15_Diffuse
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Biome_Ice_15_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1163153835
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1163153829
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 1
+      loadingBehavior: 0
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
