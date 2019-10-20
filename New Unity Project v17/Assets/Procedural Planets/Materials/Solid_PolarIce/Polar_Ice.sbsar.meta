@@ -1,8 +1,7 @@
 fileFormatVersion: 2
 guid: a27ea7325140f4d4b985e71896748e32
-timeCreated: 1533342976
-licenseType: Store
 SubstanceImporter:
+  externalObjects: {}
   serializedVersion: 5
   materialInstances:
   - serializedVersion: 16
@@ -21,6 +20,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Balance
       value:
         scalar[0]: 0.5
@@ -28,6 +28,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Contrast
       value:
         scalar[0]: 0.5
@@ -35,6 +36,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Random_Seed
       value:
         scalar[0]: 1
@@ -42,6 +44,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -141,6 +144,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Balance
       value:
         scalar[0]: 0.5
@@ -148,6 +152,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Contrast
       value:
         scalar[0]: 0.5
@@ -155,6 +160,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Random_Seed
       value:
         scalar[0]: 1
@@ -162,6 +168,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -261,6 +268,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Balance
       value:
         scalar[0]: 0.5
@@ -268,6 +276,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Contrast
       value:
         scalar[0]: 0.5
@@ -275,6 +284,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Random_Seed
       value:
         scalar[0]: 1
@@ -282,6 +292,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -381,6 +392,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Balance
       value:
         scalar[0]: 0.5
@@ -388,6 +400,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Contrast
       value:
         scalar[0]: 0.5
@@ -395,6 +408,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Random_Seed
       value:
         scalar[0]: 1
@@ -402,6 +416,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -501,6 +516,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Balance
       value:
         scalar[0]: 0.5
@@ -508,6 +524,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Contrast
       value:
         scalar[0]: 0.5
@@ -515,6 +532,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Random_Seed
       value:
         scalar[0]: 1
@@ -522,6 +540,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -621,6 +640,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Balance
       value:
         scalar[0]: 0.5
@@ -628,6 +648,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Contrast
       value:
         scalar[0]: 0.5
@@ -635,6 +656,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Random_Seed
       value:
         scalar[0]: 1
@@ -642,6 +664,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -741,6 +764,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Balance
       value:
         scalar[0]: 0.5
@@ -748,6 +772,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Contrast
       value:
         scalar[0]: 0.5
@@ -755,6 +780,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Random_Seed
       value:
         scalar[0]: 1
@@ -762,6 +788,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -861,6 +888,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Balance
       value:
         scalar[0]: 0.5
@@ -868,6 +896,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Contrast
       value:
         scalar[0]: 0.5
@@ -875,6 +904,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Random_Seed
       value:
         scalar[0]: 1
@@ -882,6 +912,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}

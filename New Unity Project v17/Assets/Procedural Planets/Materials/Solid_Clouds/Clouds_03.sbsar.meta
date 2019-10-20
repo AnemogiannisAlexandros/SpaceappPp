@@ -1,8 +1,7 @@
 fileFormatVersion: 2
 guid: 144f97ec567543c488084ea808e1ae41
-timeCreated: 1532734729
-licenseType: Store
 SubstanceImporter:
+  externalObjects: {}
   serializedVersion: 5
   materialInstances:
   - serializedVersion: 16
@@ -16,60 +15,68 @@ SubstanceImporter:
     inputs:
     - name: $outputsize
       value:
-        scalar[0]: 9
-        scalar[1]: 9
+        scalar[0]: 7
+        scalar[1]: 7
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
-        scalar[0]: 191
+        scalar[0]: 194
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer1_Opacity
       value:
-        scalar[0]: 0.51117975
+        scalar[0]: 0.102032185
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer2_Opacity
       value:
-        scalar[0]: 0.39556462
+        scalar[0]: 0.24822354
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer3_Opacity
       value:
-        scalar[0]: 0.30573684
+        scalar[0]: 0.33044916
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Sharpness
       value:
-        scalar[0]: 0.04566551
+        scalar[0]: 0.24727626
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Roughness
       value:
-        scalar[0]: 0.67146087
+        scalar[0]: 0.4818825
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Coverage
       value:
-        scalar[0]: 0.4982067
+        scalar[0]: 0.5407549
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -169,6 +176,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 139
@@ -176,6 +184,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer1_Opacity
       value:
         scalar[0]: 0.6834254
@@ -183,6 +192,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer2_Opacity
       value:
         scalar[0]: 0.7723191
@@ -190,6 +200,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer3_Opacity
       value:
         scalar[0]: 0.9817084
@@ -197,6 +208,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Sharpness
       value:
         scalar[0]: 0.1102502
@@ -204,6 +216,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Roughness
       value:
         scalar[0]: 0.27317643
@@ -211,6 +224,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Coverage
       value:
         scalar[0]: 0.6323512
@@ -218,6 +232,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -317,6 +332,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 7
@@ -324,6 +340,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer1_Opacity
       value:
         scalar[0]: 0.17778718
@@ -331,6 +348,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer2_Opacity
       value:
         scalar[0]: 0.8152448
@@ -338,6 +356,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer3_Opacity
       value:
         scalar[0]: 0.976962
@@ -345,6 +364,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Sharpness
       value:
         scalar[0]: 0.61338764
@@ -352,6 +372,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Roughness
       value:
         scalar[0]: 0.2810933
@@ -359,6 +380,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Coverage
       value:
         scalar[0]: 0.6961777
@@ -366,6 +388,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -465,6 +488,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 212
@@ -472,6 +496,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer1_Opacity
       value:
         scalar[0]: 0.047591686
@@ -479,6 +504,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer2_Opacity
       value:
         scalar[0]: 0.13782954
@@ -486,6 +512,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer3_Opacity
       value:
         scalar[0]: 0.34604472
@@ -493,6 +520,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Sharpness
       value:
         scalar[0]: 0.49371094
@@ -500,6 +528,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Roughness
       value:
         scalar[0]: 0.190182
@@ -507,6 +536,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Coverage
       value:
         scalar[0]: 0.41373816
@@ -514,6 +544,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -613,6 +644,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 128
@@ -620,6 +652,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer1_Opacity
       value:
         scalar[0]: 0.9174242
@@ -627,6 +660,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer2_Opacity
       value:
         scalar[0]: 0.20373607
@@ -634,6 +668,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer3_Opacity
       value:
         scalar[0]: 0.07259369
@@ -641,6 +676,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Sharpness
       value:
         scalar[0]: 0.410294
@@ -648,6 +684,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Roughness
       value:
         scalar[0]: 0.31126374
@@ -655,6 +692,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Coverage
       value:
         scalar[0]: 1
@@ -662,6 +700,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -761,6 +800,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 97
@@ -768,6 +808,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer1_Opacity
       value:
         scalar[0]: 0.2687568
@@ -775,6 +816,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer2_Opacity
       value:
         scalar[0]: 0.11935687
@@ -782,6 +824,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer3_Opacity
       value:
         scalar[0]: 0.9518372
@@ -789,6 +832,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Sharpness
       value:
         scalar[0]: 0.46841577
@@ -796,6 +840,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Roughness
       value:
         scalar[0]: 0.54686856
@@ -803,6 +848,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Coverage
       value:
         scalar[0]: 0.56680614
@@ -810,6 +856,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -909,6 +956,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 61
@@ -916,6 +964,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer1_Opacity
       value:
         scalar[0]: 0.027410865
@@ -923,6 +972,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer2_Opacity
       value:
         scalar[0]: 0.9623276
@@ -930,6 +980,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer3_Opacity
       value:
         scalar[0]: 0.67283654
@@ -937,6 +988,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Sharpness
       value:
         scalar[0]: 0.54106754
@@ -944,6 +996,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Roughness
       value:
         scalar[0]: 0.38699597
@@ -951,6 +1004,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Coverage
       value:
         scalar[0]: 0.65691435
@@ -958,6 +1012,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -1057,6 +1112,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 61
@@ -1064,6 +1120,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer1_Opacity
       value:
         scalar[0]: 0.027410865
@@ -1071,6 +1128,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer2_Opacity
       value:
         scalar[0]: 0.9623276
@@ -1078,6 +1136,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Layer3_Opacity
       value:
         scalar[0]: 0.67283654
@@ -1085,6 +1144,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Sharpness
       value:
         scalar[0]: 0.54106754
@@ -1092,6 +1152,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Roughness
       value:
         scalar[0]: 0.38699597
@@ -1099,6 +1160,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Coverage
       value:
         scalar[0]: 0.65691435
@@ -1106,6 +1168,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}

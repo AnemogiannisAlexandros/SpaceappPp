@@ -1,8 +1,7 @@
 fileFormatVersion: 2
 guid: 2acdea51e9629b843b20e592759efdd4
-timeCreated: 1532737877
-licenseType: Store
 SubstanceImporter:
+  externalObjects: {}
   serializedVersion: 5
   materialInstances:
   - serializedVersion: 16
@@ -16,130 +15,148 @@ SubstanceImporter:
     inputs:
     - name: $outputsize
       value:
-        scalar[0]: 11
-        scalar[1]: 11
+        scalar[0]: 7
+        scalar[1]: 7
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
-        scalar[0]: 61
+        scalar[0]: 198
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
-        scalar[0]: 0.8040178
+        scalar[0]: 1.7541254
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
-        scalar[0]: 0.46633348
+        scalar[0]: 0.44343957
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
-        scalar[0]: 0.25729066
+        scalar[0]: 0.37322384
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
-        scalar[0]: 0.5175861
+        scalar[0]: 0.4904771
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
-        scalar[0]: 0.05680585
+        scalar[0]: 0.860654
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
-        scalar[0]: 0.5029456
+        scalar[0]: 0.4798693
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
-        scalar[0]: 0.5091188
+        scalar[0]: 0.50238013
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
-        scalar[0]: 0.998719
+        scalar[0]: 0.9755758
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
-        scalar[0]: 0.77048385
+        scalar[0]: 0.87223685
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
-        scalar[0]: 0.07237476
+        scalar[0]: 0.06291769
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
-        scalar[0]: 0.030261278
+        scalar[0]: 0.07674265
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
-        scalar[0]: 0.37659603
+        scalar[0]: 0.4617346
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
-        scalar[0]: 0.29108697
+        scalar[0]: 0.28598708
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
-        scalar[0]: 0.5633864
+        scalar[0]: 0.6267667
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
-        scalar[0]: 0.13976632
+        scalar[0]: 0.015705623
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
-        scalar[0]: 0.35941595
+        scalar[0]: 0.20701194
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -247,6 +264,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 253
@@ -254,6 +272,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 1.2861252
@@ -261,6 +280,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.36592603
@@ -268,6 +288,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.4332624
@@ -275,6 +296,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.4833176
@@ -282,6 +304,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0
@@ -289,6 +312,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.48902696
@@ -296,6 +320,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.5019103
@@ -303,6 +328,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.751078
@@ -310,6 +336,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.9612653
@@ -317,6 +344,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.0021710158
@@ -324,6 +352,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.1651702
@@ -331,6 +360,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.3290586
@@ -338,6 +368,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.48927516
@@ -345,6 +376,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.6035742
@@ -352,6 +384,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.041732598
@@ -359,6 +392,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.035624266
@@ -366,6 +400,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -473,6 +508,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 15
@@ -480,6 +516,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 4.440389
@@ -487,6 +524,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.41101062
@@ -494,6 +532,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.7466508
@@ -501,6 +540,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.5369122
@@ -508,6 +548,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0
@@ -515,6 +556,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.524131
@@ -522,6 +564,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.48882487
@@ -529,6 +572,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.6746886
@@ -536,6 +580,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.27817625
@@ -543,6 +588,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.019289374
@@ -550,6 +596,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.47274548
@@ -557,6 +604,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.6262734
@@ -564,6 +612,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.5607657
@@ -571,6 +620,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.9582125
@@ -578,6 +628,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.058583166
@@ -585,6 +636,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.100515604
@@ -592,6 +644,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -699,6 +752,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 251
@@ -706,6 +760,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 0.70287704
@@ -713,6 +768,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.36510065
@@ -720,6 +776,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.4290113
@@ -727,6 +784,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.48102868
@@ -734,6 +792,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0
@@ -741,6 +800,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.4882118
@@ -748,6 +808,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.5011849
@@ -755,6 +816,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.74474037
@@ -762,6 +824,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.8909149
@@ -769,6 +832,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.29136485
@@ -776,6 +840,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.13447368
@@ -783,6 +848,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.2897765
@@ -790,6 +856,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.44994766
@@ -797,6 +864,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.60042673
@@ -804,6 +872,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.060333326
@@ -811,6 +880,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.03611815
@@ -818,6 +888,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -925,6 +996,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 190
@@ -932,6 +1004,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 5.717352
@@ -939,6 +1012,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.45204267
@@ -946,6 +1020,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.18072379
@@ -953,6 +1028,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.46454373
@@ -960,6 +1036,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.98147833
@@ -967,6 +1044,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.5391433
@@ -974,6 +1052,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.5103929
@@ -981,6 +1060,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.78537655
@@ -988,6 +1068,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.59367925
@@ -995,6 +1076,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.16308287
@@ -1002,6 +1084,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.335779
@@ -1009,6 +1092,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.4910813
@@ -1016,6 +1100,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.018326163
@@ -1023,6 +1108,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.13374007
@@ -1030,6 +1116,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.10872011
@@ -1037,6 +1124,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.7290546
@@ -1044,6 +1132,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -1151,6 +1240,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 178
@@ -1158,6 +1248,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 3.0034738
@@ -1165,6 +1256,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.43115783
@@ -1172,6 +1264,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.015123844
@@ -1179,6 +1272,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.5330228
@@ -1186,6 +1280,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0
@@ -1193,6 +1288,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.53821415
@@ -1200,6 +1296,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.5047036
@@ -1207,6 +1304,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.8202188
@@ -1214,6 +1312,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.7314329
@@ -1221,6 +1320,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.17568675
@@ -1228,6 +1328,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.49619955
@@ -1235,6 +1336,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.13365912
@@ -1242,6 +1344,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.03370285
@@ -1249,6 +1352,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.9364866
@@ -1256,6 +1360,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.09080317
@@ -1263,6 +1368,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.3943451
@@ -1270,6 +1376,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -1377,6 +1484,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 112
@@ -1384,6 +1492,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 1.6168141
@@ -1391,6 +1500,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.57042044
@@ -1398,6 +1508,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.9854183
@@ -1405,6 +1516,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.51141256
@@ -1412,6 +1524,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0
@@ -1419,6 +1532,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.51557016
@@ -1426,6 +1540,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.4960422
@@ -1433,6 +1548,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.3724038
@@ -1440,6 +1556,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.472269
@@ -1447,6 +1564,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.002005005
@@ -1454,6 +1572,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.21951807
@@ -1461,6 +1580,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.8718555
@@ -1468,6 +1588,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.9548702
@@ -1475,6 +1596,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.7096019
@@ -1482,6 +1604,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.056097295
@@ -1489,6 +1612,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.005619049
@@ -1496,6 +1620,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -1603,6 +1728,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 233
@@ -1610,6 +1736,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 7.5154257
@@ -1617,6 +1744,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.2842238
@@ -1624,6 +1752,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.45596224
@@ -1631,6 +1760,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.4702771
@@ -1638,6 +1768,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.51986974
@@ -1645,6 +1776,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.48615023
@@ -1652,6 +1784,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.49479657
@@ -1659,6 +1792,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.5139665
@@ -1666,6 +1800,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.8862622
@@ -1673,6 +1808,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.22694908
@@ -1680,6 +1816,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.150478
@@ -1687,6 +1824,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.047226787
@@ -1694,6 +1832,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.46148115
@@ -1701,6 +1840,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.3466962
@@ -1708,6 +1848,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.065462925
@@ -1715,6 +1856,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.78271437
@@ -1722,6 +1864,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -1829,6 +1972,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 138
@@ -1836,6 +1980,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 9.284931
@@ -1843,6 +1988,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.7742485
@@ -1850,6 +1996,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.22932541
@@ -1857,6 +2004,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.064367175
@@ -1864,6 +2012,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.40830332
@@ -1871,6 +2020,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.46749943
@@ -1878,6 +2028,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.4703243
@@ -1885,6 +2036,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.36988395
@@ -1892,6 +2044,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.6378585
@@ -1899,6 +2052,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.18352732
@@ -1906,6 +2060,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.90417683
@@ -1913,6 +2068,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.80656993
@@ -1920,6 +2076,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.17121077
@@ -1927,6 +2084,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.44046372
@@ -1934,6 +2092,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.28003368
@@ -1941,6 +2100,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.52163774
@@ -1948,6 +2108,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -2055,6 +2216,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 138
@@ -2062,6 +2224,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 9.284931
@@ -2069,6 +2232,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.7742485
@@ -2076,6 +2240,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.22932541
@@ -2083,6 +2248,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.064367175
@@ -2090,6 +2256,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.40830332
@@ -2097,6 +2264,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.46749943
@@ -2104,6 +2272,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.4703243
@@ -2111,6 +2280,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.36988395
@@ -2118,6 +2288,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.6378585
@@ -2125,6 +2296,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.18352732
@@ -2132,6 +2304,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.90417683
@@ -2139,6 +2312,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.80656993
@@ -2146,6 +2320,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.17121077
@@ -2153,6 +2328,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.44046372
@@ -2160,6 +2336,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.28003368
@@ -2167,6 +2344,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.52163774
@@ -2174,6 +2352,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -2281,6 +2460,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 138
@@ -2288,6 +2468,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 9.284931
@@ -2295,6 +2476,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.7742485
@@ -2302,6 +2484,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.22932541
@@ -2309,6 +2492,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.064367175
@@ -2316,6 +2500,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.40830332
@@ -2323,6 +2508,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.46749943
@@ -2330,6 +2516,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.4703243
@@ -2337,6 +2524,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.36988395
@@ -2344,6 +2532,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.6378585
@@ -2351,6 +2540,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.18352732
@@ -2358,6 +2548,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.90417683
@@ -2365,6 +2556,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.80656993
@@ -2372,6 +2564,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.17121077
@@ -2379,6 +2572,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.44046372
@@ -2386,6 +2580,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.28003368
@@ -2393,6 +2588,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.52163774
@@ -2400,6 +2596,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -2507,6 +2704,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 138
@@ -2514,6 +2712,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 9.284931
@@ -2521,6 +2720,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.7742485
@@ -2528,6 +2728,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.22932541
@@ -2535,6 +2736,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.064367175
@@ -2542,6 +2744,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.40830332
@@ -2549,6 +2752,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.46749943
@@ -2556,6 +2760,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.4703243
@@ -2563,6 +2768,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.36988395
@@ -2570,6 +2776,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.6378585
@@ -2577,6 +2784,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.18352732
@@ -2584,6 +2792,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.90417683
@@ -2591,6 +2800,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.80656993
@@ -2598,6 +2808,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.17121077
@@ -2605,6 +2816,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.44046372
@@ -2612,6 +2824,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.28003368
@@ -2619,6 +2832,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.52163774
@@ -2626,6 +2840,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -2733,6 +2948,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 138
@@ -2740,6 +2956,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 9.284931
@@ -2747,6 +2964,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.7742485
@@ -2754,6 +2972,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.22932541
@@ -2761,6 +2980,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.064367175
@@ -2768,6 +2988,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.40830332
@@ -2775,6 +2996,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.46749943
@@ -2782,6 +3004,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.4703243
@@ -2789,6 +3012,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.36988395
@@ -2796,6 +3020,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.6378585
@@ -2803,6 +3028,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.18352732
@@ -2810,6 +3036,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.90417683
@@ -2817,6 +3044,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.80656993
@@ -2824,6 +3052,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.17121077
@@ -2831,6 +3060,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.44046372
@@ -2838,6 +3068,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.28003368
@@ -2845,6 +3076,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.52163774
@@ -2852,6 +3084,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -2959,6 +3192,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 138
@@ -2966,6 +3200,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 9.284931
@@ -2973,6 +3208,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.7742485
@@ -2980,6 +3216,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.22932541
@@ -2987,6 +3224,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.064367175
@@ -2994,6 +3232,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.40830332
@@ -3001,6 +3240,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.46749943
@@ -3008,6 +3248,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.4703243
@@ -3015,6 +3256,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.36988395
@@ -3022,6 +3264,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.6378585
@@ -3029,6 +3272,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.18352732
@@ -3036,6 +3280,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.90417683
@@ -3043,6 +3288,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.80656993
@@ -3050,6 +3296,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.17121077
@@ -3057,6 +3304,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.44046372
@@ -3064,6 +3312,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.28003368
@@ -3071,6 +3320,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.52163774
@@ -3078,6 +3328,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -3185,6 +3436,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 138
@@ -3192,6 +3444,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 9.284931
@@ -3199,6 +3452,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.7742485
@@ -3206,6 +3460,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.22932541
@@ -3213,6 +3468,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.064367175
@@ -3220,6 +3476,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.40830332
@@ -3227,6 +3484,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.46749943
@@ -3234,6 +3492,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.4703243
@@ -3241,6 +3500,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.36988395
@@ -3248,6 +3508,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.6378585
@@ -3255,6 +3516,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.18352732
@@ -3262,6 +3524,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.90417683
@@ -3269,6 +3532,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.80656993
@@ -3276,6 +3540,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.17121077
@@ -3283,6 +3548,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.44046372
@@ -3290,6 +3556,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.28003368
@@ -3297,6 +3564,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.52163774
@@ -3304,6 +3572,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -3411,6 +3680,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: $randomseed
       value:
         scalar[0]: 138
@@ -3418,6 +3688,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Warp
       value:
         scalar[0]: 9.284931
@@ -3425,6 +3696,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Balance
       value:
         scalar[0]: 0.7742485
@@ -3432,6 +3704,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Coverage_Contrast
       value:
         scalar[0]: 0.22932541
@@ -3439,6 +3712,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Hue
       value:
         scalar[0]: 0.064367175
@@ -3446,6 +3720,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Alienization
       value:
         scalar[0]: 0.40830332
@@ -3453,6 +3728,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Saturation
       value:
         scalar[0]: 0.46749943
@@ -3460,6 +3736,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Biome_Brightness
       value:
         scalar[0]: 0.4703243
@@ -3467,6 +3744,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Craters
       value:
         scalar[0]: 0.36988395
@@ -3474,6 +3752,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Craters
       value:
         scalar[0]: 0.6378585
@@ -3481,6 +3760,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Surface
       value:
         scalar[0]: 0.18352732
@@ -3488,6 +3768,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Small
       value:
         scalar[0]: 0.90417683
@@ -3495,6 +3776,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Medium
       value:
         scalar[0]: 0.80656993
@@ -3502,6 +3784,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Craters_Large
       value:
         scalar[0]: 0.17121077
@@ -3509,6 +3792,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Crater_Erosion
       value:
         scalar[0]: 0.44046372
@@ -3516,6 +3800,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Normal_Strength_Canyons
       value:
         scalar[0]: 0.28003368
@@ -3523,6 +3808,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: Diffuse_Strength_Canyons
       value:
         scalar[0]: 0.52163774
@@ -3530,6 +3816,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}

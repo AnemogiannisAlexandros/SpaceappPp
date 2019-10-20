@@ -10,7 +10,7 @@ public class OrbitMotion : MonoBehaviour {
     [Range(0f, 1f)]
     public float orbitProgress = 0;
     public float orbitPeriod = 3f;
-    public bool orbitActive = true;
+    public bool orbitActive = false;
 
     void Awake()
     {

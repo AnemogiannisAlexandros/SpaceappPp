@@ -1,8 +1,7 @@
 fileFormatVersion: 2
 guid: 1b7d5bb48f9934b44b7a7b9ee0919586
-timeCreated: 1533342974
-licenseType: Store
 SubstanceImporter:
+  externalObjects: {}
   serializedVersion: 5
   materialInstances:
   - serializedVersion: 16
@@ -21,48 +20,55 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Random_Seed
       value:
-        scalar[0]: 57
+        scalar[0]: 180
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Warp
       value:
-        scalar[0]: 7.857216
+        scalar[0]: 6.8546576
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Random_Seed
       value:
-        scalar[0]: 57
+        scalar[0]: 180
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Warp
       value:
-        scalar[0]: 2.837563
+        scalar[0]: 5.7903066
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Balance
       value:
-        scalar[0]: 0.36282438
+        scalar[0]: 0.4468418
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Contrast
       value:
-        scalar[0]: 0.46710318
+        scalar[0]: 0.28046864
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapLava_Warp
       value:
         scalar[0]: 10
@@ -70,6 +76,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -169,6 +176,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Random_Seed
       value:
         scalar[0]: 41
@@ -176,6 +184,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Warp
       value:
         scalar[0]: 4.389665
@@ -183,6 +192,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Random_Seed
       value:
         scalar[0]: 41
@@ -190,6 +200,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Warp
       value:
         scalar[0]: 5.058289
@@ -197,6 +208,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Balance
       value:
         scalar[0]: 0.3436369
@@ -204,6 +216,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Contrast
       value:
         scalar[0]: 0.15023732
@@ -211,6 +224,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapLava_Warp
       value:
         scalar[0]: 10
@@ -218,6 +232,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -317,6 +332,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Random_Seed
       value:
         scalar[0]: 36
@@ -324,6 +340,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Warp
       value:
         scalar[0]: 5.5044293
@@ -331,6 +348,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Random_Seed
       value:
         scalar[0]: 36
@@ -338,6 +356,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Warp
       value:
         scalar[0]: 4.132235
@@ -345,6 +364,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Balance
       value:
         scalar[0]: 0.44940072
@@ -352,6 +372,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Contrast
       value:
         scalar[0]: 0.59063274
@@ -359,6 +380,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapLava_Warp
       value:
         scalar[0]: 10
@@ -366,6 +388,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -465,6 +488,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Random_Seed
       value:
         scalar[0]: 44
@@ -472,6 +496,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Warp
       value:
         scalar[0]: 4.324934
@@ -479,6 +504,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Random_Seed
       value:
         scalar[0]: 44
@@ -486,6 +512,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Warp
       value:
         scalar[0]: 1.9347734
@@ -493,6 +520,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Balance
       value:
         scalar[0]: 0.5386874
@@ -500,6 +528,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Contrast
       value:
         scalar[0]: 0.93628883
@@ -507,6 +536,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapLava_Warp
       value:
         scalar[0]: 10
@@ -514,6 +544,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -613,6 +644,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Random_Seed
       value:
         scalar[0]: 34
@@ -620,6 +652,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Warp
       value:
         scalar[0]: 9.9546585
@@ -627,6 +660,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Random_Seed
       value:
         scalar[0]: 34
@@ -634,6 +668,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Warp
       value:
         scalar[0]: 4.723292
@@ -641,6 +676,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Balance
       value:
         scalar[0]: 0.18808627
@@ -648,6 +684,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Contrast
       value:
         scalar[0]: 0.8394457
@@ -655,6 +692,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapLava_Warp
       value:
         scalar[0]: 10
@@ -662,6 +700,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -761,6 +800,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Random_Seed
       value:
         scalar[0]: 34
@@ -768,6 +808,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Warp
       value:
         scalar[0]: 4.5825205
@@ -775,6 +816,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Random_Seed
       value:
         scalar[0]: 34
@@ -782,6 +824,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Warp
       value:
         scalar[0]: 1.6061052
@@ -789,6 +832,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Balance
       value:
         scalar[0]: 0.45931828
@@ -796,6 +840,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Contrast
       value:
         scalar[0]: 0.26846772
@@ -803,6 +848,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapLava_Warp
       value:
         scalar[0]: 10
@@ -810,6 +856,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -909,6 +956,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Random_Seed
       value:
         scalar[0]: 186
@@ -916,6 +964,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Warp
       value:
         scalar[0]: 7.2357473
@@ -923,6 +972,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Random_Seed
       value:
         scalar[0]: 186
@@ -930,6 +980,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Warp
       value:
         scalar[0]: 7.7442355
@@ -937,6 +988,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Balance
       value:
         scalar[0]: 0.38831466
@@ -944,6 +996,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Contrast
       value:
         scalar[0]: 0.034905553
@@ -951,6 +1004,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapLava_Warp
       value:
         scalar[0]: 10
@@ -958,6 +1012,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
@@ -1057,6 +1112,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Random_Seed
       value:
         scalar[0]: 86
@@ -1064,6 +1120,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapHeight_Warp
       value:
         scalar[0]: 5.1753216
@@ -1071,6 +1128,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Random_Seed
       value:
         scalar[0]: 86
@@ -1078,6 +1136,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Warp
       value:
         scalar[0]: 6.78323
@@ -1085,6 +1144,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Balance
       value:
         scalar[0]: 0.5980037
@@ -1092,6 +1152,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapBiome_Contrast
       value:
         scalar[0]: 0.07632768
@@ -1099,6 +1160,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     - name: MapLava_Warp
       value:
         scalar[0]: 10
@@ -1106,6 +1168,7 @@ SubstanceImporter:
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
+        stringvalue: 
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}

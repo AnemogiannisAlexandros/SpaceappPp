@@ -11,13 +11,13 @@ public class OrbitRenderer : MonoBehaviour
 
     public int Segments;
     public Ellipse ellipse;
-    float aValue, bValue;
-    float eccentricity;
 
     public void Awake()
     {
         lr = GetComponent<LineRenderer>();
+        lr.useWorldSpace = false;
         ellipse = GetComponent<Ellipse>();
+        Segments = 68;
         CalculateEllipse();
     }
     public void Update()
