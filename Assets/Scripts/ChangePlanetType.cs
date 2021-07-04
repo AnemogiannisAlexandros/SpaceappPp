@@ -1,14 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using ProceduralPlanets;
 public class ChangePlanetType : MonoBehaviour {
 
-    SolidPlanet planet;
     // Use this for initialization
     void Awake() 
     {
-        planet = GetComponent<SolidPlanet>();
     }
 	void Start () {
 		
@@ -20,7 +17,6 @@ public class ChangePlanetType : MonoBehaviour {
         if (Input.GetMouseButtonDown(0)) 
         {
             Debug.Log("Clicked");
-            planet.SetPlanetBlueprint(Random.Range(0,6));
         }
 	}
 }

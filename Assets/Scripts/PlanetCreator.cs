@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
-using ProceduralPlanets;
 
 public class PlanetCreator : MonoBehaviour
 {
@@ -18,7 +17,6 @@ public class PlanetCreator : MonoBehaviour
     public void InstantiatePlanet()
     {
         GameObject go = new GameObject();
-        PlanetManager.CreatePlanet(creationPosition).gameObject.transform.SetParent(go.transform);
         go.AddComponent<Ellipse>().SetupData(Ellipse.MajorAxis.AxisX,0.5f,200,23,80);
         go.AddComponent<OrbitMotion>();
         go.AddComponent<OrbitRenderer>();

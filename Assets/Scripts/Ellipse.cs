@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using ProceduralPlanets;
 
 [System.Serializable]
 public class Ellipse : MonoBehaviour
@@ -84,7 +83,6 @@ public class Ellipse : MonoBehaviour
             yAxis = majorAxisLength / 2;
             gamma = xAxis * eccentricity;
         }
-        Sun = FindObjectOfType<LocalStar>().gameObject;
 
     }
     void Start() 
